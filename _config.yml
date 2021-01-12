@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://domain.tld
+url:                   https://ollpp.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 #
@@ -22,19 +22,16 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 요런저런 블로그
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  A Jekyll theme with JavaScript powers. "Best Theme by a Mile".
-  Combines the best of static sites and modern web apps.
-  Open `_config.yml` to edit this text.
+  IT 분야 이것저것 포스팅하는 요런저런 기술 블로그
 
 # A shorter description for the sidebar.
 tagline:               >
-  A Jekyll theme with JavaScript powers.
-  Open `_config.yml` to edit this text.
+  노력하는 블로그
 
 # A list of keywords for your blog
 keywords:              []
@@ -72,7 +69,7 @@ paginate_path:         /page-:num/
 # Customizaton
 # ========================================================================================
 
-# Sidebar image and theme color of the site.
+# Sidebar image and theme color of the site.   # sidebar 이미지
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          '#4fb1ba'
 
